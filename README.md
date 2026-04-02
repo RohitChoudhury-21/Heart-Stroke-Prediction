@@ -41,9 +41,6 @@ pip install flask flask-cors joblib pandas numpy
 3️⃣ Run the Application
 python app.py
 
-Server will start at:
-
-http://localhost:5000
 📡 API Usage
 Endpoint
 POST /predict
